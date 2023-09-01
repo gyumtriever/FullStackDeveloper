@@ -1,4 +1,12 @@
-body {
+* {
   text-align: center;
+}
+
+body {
+  /* text-align: center; */
   background-color: rgb(237, 220, 195);
 }
+
+/* p {
+  margin-bottom: 36px;
+} */
